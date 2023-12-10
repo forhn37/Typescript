@@ -1,5 +1,5 @@
-function squareOf (n:number) {
-  return n*n
-}
-squareOf(2)
-squareOf('z')
+let a: number = 666;
+let b: object = ['danger'];
+let c = a + b;
+console.log(c)
+console.log(a)
